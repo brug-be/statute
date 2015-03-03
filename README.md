@@ -188,28 +188,25 @@ a new board member.
 
 The board meets each time it is needed. It is convoked by at least one board
 member. It is usually chaired by the president, but another member can chair it
-if it is decided at the beginning of the meeting.
+if it is decided so at the beginning of the meeting.
 
 The board can deliberate if at least 2 board members are present.
 
 One board member collects decisions and votes into minutes of meeting. Those can
 be requested by any full member.
 
-The responsibilities of each of them are as follows:
+The Board of Directors has the broadest powers to
+administration and management of the association. It may include, without
+This list is not exhaustive:
 
-Le conseil d’administration a les pouvoirs les plus étendus pour
-l’administration et la gestion de l’association. Il peut notamment, sans que
-cette énumération soit limitative :
+* make and spend all acts and contracts;
+* open and manage all bank accounts;
+* accept any legacies, grants, donations and transfers;
+* waive all rights;
+* represent the association in court, either as defendant or as complainant;
+* it can also appoint and dismiss the staff of the association.
 
-* faire et passer tous les actes et contrats,
-* ouvrir et gérer tous comptes bancaires,
-* accepter tous legs, subsides, donations et transferts,
-* renoncer à tous droits,
-* représenter l’association en justice, tant en défendant qu’en demandant.
-* Il peut aussi nommer et révoquer le personnel de l’association.
-
-Toutes les attributions qui ne sont pas expressément réservées par la loi ou les
-statuts à l’assemblée générale seront exercées par le conseil d’administration.
+All powers not expressly reserved by law or statutes at the General Assembly shall be exercised by the Board of Directors.
 
 All the board members act in order to run the association according its mission
 and statute. Each member has different roles as defined in the following.
