@@ -34,21 +34,21 @@ follows:
 
 The association is composed of: associate members and full members.
 
-### Article 6. About Members and their Admission
+### Article 6. About Members and Their Admission
 
-Have the status of:
+Members can have one of the two status:
 
-* associate members, all the persons that have paid their annual membership fee
-  and participate to the activities of the association,
-* full members, all associate members admitted as a full member by the general
-  assembly to a simple majority of the votes present or represented.
+* associate member - which consists of all the persons that have paid their annual membership fee
+  and participate to the activities of the association;
+* full member - which consists of all associate members admitted as a full member by the General
+  Assembly to a simple majority of the votes present or represented.
 
 The number of associate members is unlimited.
 
 The number of full members cannot be less than three. Only full members enjoy
 the full rights accorded to the members by law and this statute.
 
-Any member (associate, or full) is deemed to adhere to the statute of
+Any member (associate or full) is deemed to adhere to the statute of
 the association.
 
 ### Article 7. Register
@@ -57,7 +57,7 @@ The association maintain a register of the full members, under the
 responsibility of the board. All decisions of admission or termination of full
 members are registered at the request of the Board.
 
-### Article 8. Termination and suspension of membership
+### Article 8. Termination and Suspension of Membership
 
 Any member, including board member, is free to resign to the association by sending
 his/her resignation letter by email or mail sent to the board.
@@ -67,37 +67,36 @@ Is also deemed to have resigned:
 * the member ceasing to exist pursuant to the laws of its country of
   incorporation or, the member being an individual, upon death;
 * the member ceasing to qualify as such in accordance with the Article 6.;
-* the member who doesn't pay his/her membership fee one month after the reminder
-  sent to him by email; or
+* the member who does not pay his/her membership fee one month after the reminder
+  sent to him/her by email; or
 * the full member who is not present or is not represented at two consecutive
-  general assemblies.
+  General Assemblies.
 
-The expulsion of any member as any board member is decided by the general assembly
-with the consent of the two thirds of the votes present or represented.
+The expulsion of any member as well as any board member is decided by the General Assembly
+with the consent of the two thirds of the present or represented votes.
 
-As an interim measure until the decision of the general assembly, the board may
+As an interim measure until the decision of the GeneralAassembly, the board may
 suspend any member guilty of a serious breach of the laws, the statute, or
 internal policy document, or in case of other action that could harm the
 association.
 
 The expulsion of a member or a board member requires the following conditions:
 
-* The regular convening of a general assembly at which all full members must be
+* the regular convening of a general assembly at which all full members must be
   convened;
-* The mention in the agenda of the general assembly of the proposed expulsion
-  with the mention at least briefly, the reason for this proposal;
-* The decision of the general assembly must be taken by a majority of two thirds
+* the mention in the agenda of the General Assembly of the proposed expulsion
+  with at least brief mention of the reason for this proposal;
+* the decision of the General Assembly must be taken by a majority of two thirds
   of votes of the members present or represented, but no quorum is required;
-* Respect for the rights of the defense, that is to say, the hearing of the
+* respect for the rights of the defense, that is to say, the hearing of the
   member whose expulsion is requested, if he/she wishes;
-* The mention of the expulsion in the register of full members;
-* With regard to a decision about an individual, the latter must be taken by
-  secret ballot.
+* the mention of the expulsion in the register of full members;
+* the decision must be taken by secret ballot.
 
 In any case, a resigning member, suspended, or expelled, and the heirs or
-assigns of the deceased member had any right to the assets of the Association. A
+assigns of the deceased member had any right to the assets of the association. A
 resigning member suspended or expelled may not charge or require no statements,
-accountability, or sealing, or inventories, or claim a refund of contributions
+accountability, sealing, inventories, or claim a refund of contributions
 or donations of any kind that he/she may have the benefit of the association, and in
 accordance with Article <TODO>.
 
